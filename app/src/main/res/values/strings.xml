@@ -4,4 +4,6 @@
     <string name="escanear_c_digo">Escanear código</string>
     <string name="el_codigo_aparecera_aqui">El codigo aparecera aqui:</string>
     <string name="la_informacion_escaneada_se_mostrara_debajo">La informacion escaneada se mostrara debajo:</string>
+    <string name="el_valor_escaneado_es">El valor escaneado es:</string>
+    <string name="cancelado">Cancelado</string>
 </resources>
